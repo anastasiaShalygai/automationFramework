@@ -1,7 +1,7 @@
-package pages.base;
+package pages;
 
 /**
  * Created by Anastasiya on 20.03.2017.
  */
-abstract class BasePage {
+public class Product {
 }
